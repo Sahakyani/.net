@@ -1,0 +1,14 @@
+C:\Users\ANI\Lab7.3\bin\Debug\net9.0\Lab7.3.exe
+C:\Users\ANI\Lab7.3\bin\Debug\net9.0\Lab7.3.deps.json
+C:\Users\ANI\Lab7.3\bin\Debug\net9.0\Lab7.3.runtimeconfig.json
+C:\Users\ANI\Lab7.3\bin\Debug\net9.0\Lab7.3.dll
+C:\Users\ANI\Lab7.3\bin\Debug\net9.0\Lab7.3.pdb
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.AssemblyInfoInputs.cache
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.AssemblyInfo.cs
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.csproj.CoreCompileInputs.cache
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.dll
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\refint\Lab7.3.dll
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.pdb
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\Lab7.3.genruntimeconfig.cache
+C:\Users\ANI\Lab7.3\obj\Debug\net9.0\ref\Lab7.3.dll
