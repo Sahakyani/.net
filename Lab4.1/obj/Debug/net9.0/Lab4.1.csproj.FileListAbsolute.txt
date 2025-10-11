@@ -1,0 +1,14 @@
+C:\Users\ANI\Lab4.1\bin\Debug\net9.0\Lab4.1.exe
+C:\Users\ANI\Lab4.1\bin\Debug\net9.0\Lab4.1.deps.json
+C:\Users\ANI\Lab4.1\bin\Debug\net9.0\Lab4.1.runtimeconfig.json
+C:\Users\ANI\Lab4.1\bin\Debug\net9.0\Lab4.1.dll
+C:\Users\ANI\Lab4.1\bin\Debug\net9.0\Lab4.1.pdb
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.AssemblyInfoInputs.cache
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.AssemblyInfo.cs
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.csproj.CoreCompileInputs.cache
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.dll
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\refint\Lab4.1.dll
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.pdb
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\Lab4.1.genruntimeconfig.cache
+C:\Users\ANI\Lab4.1\obj\Debug\net9.0\ref\Lab4.1.dll
