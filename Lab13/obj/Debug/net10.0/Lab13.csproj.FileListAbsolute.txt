@@ -1,0 +1,14 @@
+C:\Users\ANI\Lab13\bin\Debug\net10.0\Lab13.exe
+C:\Users\ANI\Lab13\bin\Debug\net10.0\Lab13.deps.json
+C:\Users\ANI\Lab13\bin\Debug\net10.0\Lab13.runtimeconfig.json
+C:\Users\ANI\Lab13\bin\Debug\net10.0\Lab13.dll
+C:\Users\ANI\Lab13\bin\Debug\net10.0\Lab13.pdb
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.AssemblyInfoInputs.cache
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.AssemblyInfo.cs
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.dll
+C:\Users\ANI\Lab13\obj\Debug\net10.0\refint\Lab13.dll
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.pdb
+C:\Users\ANI\Lab13\obj\Debug\net10.0\Lab13.genruntimeconfig.cache
+C:\Users\ANI\Lab13\obj\Debug\net10.0\ref\Lab13.dll
